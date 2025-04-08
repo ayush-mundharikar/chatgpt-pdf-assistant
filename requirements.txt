@@ -1,0 +1,14 @@
+# Web app framework
+streamlit==1.32.2
+
+# PDF text extraction
+PyMuPDF==1.23.9
+
+# OpenAI API (GPT model access)
+openai==1.16.1
+
+# Text-to-Speech
+gTTS==2.5.1
+
+# For loading environment variables (.env)
+python-dotenv==1.0.1
